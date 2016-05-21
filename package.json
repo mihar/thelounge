@@ -1,0 +1,15 @@
+{
+  "name": "thelounge",
+  "version": "0.0.1",
+  "description": "The Lounge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miha Rebernik",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-static": "^2.0.0"
+  }
+}
